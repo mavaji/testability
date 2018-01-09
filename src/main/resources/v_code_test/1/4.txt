@@ -1,0 +1,10 @@
+and and3 (k,f,h)
+and and0 (d,b,c)
+or or2 (f,b,g)
+nand nand1 (g,d,e)
+nor nor2 (h,g,D)
+or or5 (n,l,m)
+and and4_0 (l,a,k)
+xor xor0 (e,c,D)
+and and4_1 (m,k,E)
+

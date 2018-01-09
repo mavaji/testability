@@ -1,0 +1,29 @@
+buf buf01 (b1,b)
+buf buf02 (h,b)
+buf buf03 (k,h)
+buf buf04 (l,h)
+buf buf05 (g,d)
+buf buf06 (f,d)
+buf buf07 (e,d)
+buf buf08 (n,m)
+buf buf09 (m1,m)
+buf buf10 (p,m1)
+buf buf11 (m2,m1)
+buf buf12 (r2,r)
+buf buf13 (r3,r)
+buf buf14 (t,s)
+buf buf15 (u,s)
+
+and and1 (d,a,b1)
+
+or or1 (y,t,q)
+
+nand nand1 (x,e,r2)
+nand nand3 (z,v,m2,c)
+
+xnor xnor1 (m,g,k)
+xnor xnor2 (r,f,n)
+xnor xnor3 (v,u,l)
+
+not not1 (s,r3)
+not not2 (q,p)

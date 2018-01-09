@@ -1,0 +1,6 @@
+and and0 (g,a,b)
+or or0_0 (h,c,d)
+or or0_1 (i,d,e)
+and and1_0 (j,g,h)
+and and1_1 (k,i,f)
+and and2 (l,j,k)

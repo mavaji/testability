@@ -1,0 +1,10 @@
+nand nand3 (o4,o3,o2)
+and and0 (o1,c,d)
+and and1 (o2,e,o0)
+or or2 (o3,o1,o2)
+xor xor0 (o0,a,b)
+
+
+
+
+

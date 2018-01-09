@@ -1,0 +1,5 @@
+buf buf0_0 (c,b)
+buf buf0_1 (d,b)
+and and1 (e,a,c)
+not not1 (f,d)
+or or2 (g,e,f)

@@ -1,0 +1,4 @@
+and a1 (e,a,b)
+not n1 (f,b)
+or o1 (g,e,f)
+

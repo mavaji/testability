@@ -1,0 +1,4 @@
+or or1 (x,e,m)
+and and0 (y,b,c)
+or or2 (j,x,y,d)
+xor xor0 (m,a,b)

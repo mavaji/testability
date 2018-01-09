@@ -1,0 +1,7 @@
+and #(2,3,5) and0_0 (i,a,b)
+and and0_1 (j,c,d)
+and #(1:2:3,4:5:6) transport and0_2 (k,e,f)
+and #(2,2) and0_3 (l,g,h)
+or #(0,0,9) or1_0 (m,i,j)
+or #(2) or1_1 (n,k,l)
+and  #(0,8) and2 (o,m,n)

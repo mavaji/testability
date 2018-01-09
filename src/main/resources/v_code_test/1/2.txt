@@ -1,0 +1,4 @@
+nand n2 (z,j,k)
+nand n1_1 (k,g,b)
+nand n0 (g,a,b)
+nand n1_0 (j,a,g)
